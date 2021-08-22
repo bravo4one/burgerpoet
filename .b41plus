@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Useful aliases
+
+alias updateme='sudo apt update && sudo apt upgrade -y && sudo apt autoremove'
+
+alias lsl='ls -l'
+alias lsa='ls -la'
+
+alias ssh-bowser='ssh b41@192.168.2.121" -p1449'
+
+
