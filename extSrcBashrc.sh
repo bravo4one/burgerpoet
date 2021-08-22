@@ -10,3 +10,4 @@ echo "\n# include the following file source\n# to .bashrc\n[ -f $HOME/.b41plus ]
 #new line as test.
 #new line third commit.
 #new for 4th commit with -u option
+#new, 5th to test cred helper.
